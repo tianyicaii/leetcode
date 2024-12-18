@@ -1,0 +1,1 @@
+Questions that are not central to computer science.

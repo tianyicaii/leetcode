@@ -1,0 +1,4 @@
+cpp/.cache
+cpp/bazel-*
+cpp/external
+cpp/MODULE.bazel.lock
