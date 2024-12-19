@@ -1,4 +1,3 @@
-// https://leetcode.com/problems/two-sum/description/
 // Asked once in 2014 for google internship; asked once more in 2018 for google full time.
 
 
