@@ -9,3 +9,10 @@ cc_binary(
         "//leetcode/cpp/selected:0001-two-sum",
     ],
 )
+
+# ./bazel-bin/leetcode/cpp/scratch
+cc_binary(
+    name = "scratch",
+    srcs = ["scratch/scratch.cpp"],
+    deps = [],
+)
